@@ -1,0 +1,29 @@
+new mysqli('hostname', 'username', 'password', 'databasename');
+
+SELECT * FROM students;
+
+mysqli_query('connection', 'query');
+
+$i = 0;
+
+while(range){
+
+}
+
+echo 'The result is='.$result.'test'.$name.'jkashajsh'.
+
+
+GET
+POST
+PUT
+DELETE
+
+
+INSERT INTO students (name, roll, class, phone, email, address) VALUES ('Rahim', 3, 'three', 'Uttara, Dhaka');
+
+$_GET
+$_POST
+
+SELECT * FROM students WHERE id = 8;
+
+UPDATE students SET name = 'Rakib', roll = 23, class = 'Nine',  address = 'Uttara, Dhaka' WHERE id = 3;
